@@ -1,0 +1,19 @@
+{
+    "name": "Eco Chrome",
+    "description": "Cool & Green Screen Saver for Chrome!",
+    "version": "1.0.5",
+    "app": {
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    }
+    },
+    "permissions": [
+        "alarms",
+        "storage",
+        "idle",
+        "overrideEscFullscreen"
+    ],
+    "icons": { "256": "ecochrome-256x256.png" },
+    "short_name": "Eco Chrome"
+}

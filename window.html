@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Eco Chrome</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="js/jquery-1.11.0.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    
+    <div class="page-header">
+      
+        <table>
+            <tr>
+                <td style="padding: 10px;"><img src="img/ecochrome-128x128.png"></td>
+                <td style="padding-right: 10px;"><h1>Eco Chorme<br/><small>Save energy and help the planet</small></h1></td>
+            </tr>
+        </table>
+      
+    </div>
+    
+    
+    <div class="panel panel-success">
+      <div class="panel-heading">
+        <h3 class="panel-title">Settings</h3>
+      </div>
+      <div class="panel-body">
+          <p id="idTextActivityMinutes">Starts after <input type="number" id="inputMinutes" min="1" max="300"> minutes of inactivty</p>
+          <p id="idTextActivityMinutesTextOnly" visible="false">Starts after minutes of inactivty</p>
+        <div class="btn-group">
+          <button id="btnDrpDwnEnableEnableEcoChrome" type="button" class="btn btn-default">Eco Chrome Disabled</button>
+          <button id="btnDrpDwnArrow" type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+            <span class="caret"></span>
+            <span class="sr-only">Toggle Dropdown</span>
+          </button>
+          <ul class="dropdown-menu" role="menu">
+            <li id="liEnableEcoChrome"><a href="#">Enable Eco Chrome</a></li>
+            <li id="liDisableEcoChrome"><a href="#">Disable Eco Chrome</a></li>
+          </ul>
+        </div>
+        <br/>
+        <br/>
+        <button id="btnTry" type="button" class="btn btn-info pull-left">Try EcoChrome</button>
+        <button id="btnClose" type="button" class="btn btn-primary pull-right">Close</button>
+      </div> 
+      
+    
+    </div>
+
+    <script src="js/settings.js"></script>
+  </body>
+</html>
