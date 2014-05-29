@@ -24,8 +24,8 @@ https://developer.chrome.com/apps/storage
 - API Idle
 https://developer.chrome.com/apps/idle
 
-Javascript framework used to build the GUI is Bootstrap:
-- Jquery (http://jquery.com)
+Javascript frameworks used to build the GUI is Bootstrap:
+- JQuery (http://jquery.com)
 - Boostrap (http://getbootstrap.com)
 
 
