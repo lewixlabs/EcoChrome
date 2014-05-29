@@ -31,7 +31,7 @@ Javascript frameworks used to build the GUI is Bootstrap:
 
 Google Chrome Store
 -------------------
-https://chrome.google.com/webstore/detail/eco-chrome/hacinppfkhihapeelgocenkcbjdkkhnp]
+https://chrome.google.com/webstore/detail/eco-chrome/hacinppfkhihapeelgocenkcbjdkkhnp
 
 
 For next release:
