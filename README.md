@@ -31,7 +31,7 @@ Google Chrome Store
 https://chrome.google.com/webstore/detail/eco-chrome/hacinppfkhihapeelgocenkcbjdkkhnp]
 
 
-TODOs for next release:
+For next release:
 -----------------------
 - [X] Fix Windows size issue on OSX (https://groups.google.com/a/chromium.org/forum/#!mydiscussions/chromium-apps/HDAc0-FfK8M)
   This bug was related to Google Chrome versions before v35
