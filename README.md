@@ -1,4 +1,4 @@
-EcoChrome
+Eco Chrome
 =========
 
 Release v1.0.5 - 25/04/2014
@@ -30,3 +30,10 @@ Google Chrome Store
 -------------------
 https://chrome.google.com/webstore/detail/eco-chrome/hacinppfkhihapeelgocenkcbjdkkhnp]
 
+
+ToDos for next release:
+-----------------------
+- [X] Fix Windows size issue on OSX (https://groups.google.com/a/chromium.org/forum/#!mydiscussions/chromium-apps/HDAc0-FfK8M)
+  This bug was related to Google Chrome versions before v35
+- [ ] Check if manifest.json can be updated with offline info to place Eco Chrome on Chrome Store "offline apps"
+- [ ] FIx fullscreen screensaver not working on Ubuntu (generic *unix?) OS
