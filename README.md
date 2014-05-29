@@ -9,7 +9,6 @@ Based on Google Chrome Apps engine works on any OS (Windows, Mac or Linux) where
 
 Chrome APIs used to develop this app are:
 
-
 - API Alarm
 http://developer.chrome.com/apps/alarms
 
@@ -24,6 +23,10 @@ https://developer.chrome.com/apps/storage
 
 - API Idle
 https://developer.chrome.com/apps/idle
+
+Javascript framework used to build the GUI is Bootstrap:
+- Jquery (http://jquery.com)
+- Boostrap (http://getbootstrap.com)
 
 
 Google Chrome Store
