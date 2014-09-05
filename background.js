@@ -31,11 +31,12 @@ chrome.app.runtime.onLaunched.addListener(function() {
             'window.html',
             {
                 id: 'idWinEcoChromeSettings',
-                bounds: {
-                    'width': 575,
-                    'height': 425
+                
+                outerBounds: {
+                    minWidth: 575,
+                    minHeight: 450
                 },
-
+                
                 resizable: false
             },
             function (createdWindow) {
