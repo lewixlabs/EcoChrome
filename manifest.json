@@ -1,7 +1,7 @@
 {
     "name": "Eco Chrome",
     "description": "Cool & Green Screen Saver for Chrome!",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "app": {
     "background": {
         "scripts": ["background.js"],

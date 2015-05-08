@@ -26,10 +26,10 @@ body {
   */
 
 	0%   {-webkit-opacity: 0.0;-webkit-transform: rotate(0deg);}
-	20%  {-webkit-opacity: 0.3;-webkit-transform: rotate(60deg);}
-	40%  {-webkit-opacity: 0.5;-webkit-transform: rotate(120deg);}
-	60%  {-webkit-opacity: 0.5;-webkit-transform: rotate(180deg);}
-	80%  {-webkit-opacity: 0.3;-webkit-transform: rotate(240deg);}
+	20%  {-webkit-opacity: 0.3;-webkit-transform: rotate(72deg);}
+	40%  {-webkit-opacity: 0.5;-webkit-transform: rotate(144deg);}
+	60%  {-webkit-opacity: 0.5;-webkit-transform: rotate(216deg);}
+	80%  {-webkit-opacity: 0.3;-webkit-transform: rotate(288deg);}
 	100% {-webkit-opacity: 0.0;-webkit-transform: rotate(359deg);}
 }
 
