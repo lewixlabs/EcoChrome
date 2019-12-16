@@ -48,4 +48,4 @@ Release v1.0.5 - 25/04/2014
 Still to check
 --------------
 - [ ] Check if manifest.json can be updated with offline info to place Eco Chrome on Chrome Store "offline apps"
-- [ ] FIx fullscreen screensaver not working on Ubuntu (generic *unix?) OS
+- [ ] Fix fullscreen screensaver not working on Ubuntu (generic *unix?) OS
